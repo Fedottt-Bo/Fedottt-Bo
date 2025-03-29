@@ -1,6 +1,13 @@
 ## Hi there 👋
 
 <!--
+# Training websites profiles
+![Codewars Badge](https://www.codewars.com/users/Fedottt-Bo/badges/large)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/fedottt-bo)
+-->
+
+<!--
 **Fedottt-Bo/Fedottt-Bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
